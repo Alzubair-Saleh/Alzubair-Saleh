@@ -9,9 +9,13 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Alzubair-Saleh/Alzubair-Saleh/main/images/alzubair_saleh_hey_coders.gif" alt="Alzubair Saleh - Hey Coders!" width="100%">
+  <img
+    src="./alzubair_saleh_hey_coders.gif"
+    alt="Alzubair Saleh - Hey Coders!"
+    width="100%"
+  />
 </div>
-
+<br/>
 
 <br/>
 
