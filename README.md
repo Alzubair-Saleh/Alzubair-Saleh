@@ -8,7 +8,7 @@
 
 <div align="center">
   <img
-    src="C://Users//Alzubair/Downloads//Alzubair Saleh_ Code, Learn, Build, Grow.png"
+    src="C://Users//Alzubair//Downloads//alzubair_saleh_hey_coders.gif"
     alt="Alzubair Saleh - Hey Coders!"
     width="100%"
   />
