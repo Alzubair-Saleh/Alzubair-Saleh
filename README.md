@@ -6,13 +6,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Student+%7C+Aspiring+Developer+%F0%9F%92%BB;Learning+Python%2C+C+%26+C%23+%F0%9F%90%8D;Exploring+AI+%26+Automation+%F0%9F%A4%96;Learning+Something+New+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
+
 <div align="center">
-  <img
-    src="C://Users//Alzubair//Downloads//alzubair_saleh_hey_coders.gif"
-    alt="Alzubair Saleh - Hey Coders!"
-    width="100%"
-  />
+
+![Alzubair Saleh - Hey Coders!](images/alzubair_saleh_hey_coders.gif)
+
 </div>
+
 
 <br/>
 
