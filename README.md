@@ -7,10 +7,9 @@
 </a>
 
 
+
 <div align="center">
-
-![Alzubair Saleh - Hey Coders!](images/alzubair_saleh_hey_coders.gif)
-
+  <img src="https://raw.githubusercontent.com/Alzubair-Saleh/Alzubair-Saleh/main/images/alzubair_saleh_hey_coders.gif" alt="Alzubair Saleh - Hey Coders!" width="100%">
 </div>
 
 
